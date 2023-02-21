@@ -1,0 +1,27 @@
+{
+  "name": "telegram-render-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.16.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Process-Oksana/telegram-render-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Process-Oksana/telegram-render-experiment/issues"
+  },
+  "homepage": "https://github.com/Process-Oksana/telegram-render-experiment#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
